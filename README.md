@@ -2,7 +2,7 @@
 The dataset of the images used in the article: The Role of Shape in Modeling Gloss by Davit Gigilashvili and Akib Jayed Islam
 
 The copyright on these images is owned by the authors Davit Gigilashvili and Akib Jayed Islam. 
-You can feel free to use them for your research purposes as long as a proper refernece and acknowledgement is included.
+You can feel free to use them for your research purposes as long as a proper reference and acknowledgement is included.
 
 The file names include the information about the material properties that have been used for rendering them. 
 
